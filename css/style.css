@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
+
 body {
     background: #F5F8FC none repeat scroll 0 0;
     color: #666;
     font-size: 13px;
-    line-height: 25px
+    line-height: 25px;
+    font-family: 'Quicksand', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
